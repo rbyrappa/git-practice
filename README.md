@@ -11,3 +11,5 @@ eg: git commit -m "added examples" README.md
 - git log - shows history of project commits
 
 git -merge - merge changes from different branches
+
+merging means to bring changes from 2 branches together
