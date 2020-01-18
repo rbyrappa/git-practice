@@ -19,3 +19,12 @@ git branch --no-merged master
 git diff
 git merger --no-commit --no-ff <branchname>
 git-practice$ git config --get user.email
+
+git fetch: fetch changes from remote directory. You then need to merge
+git pull: fetch and merge
+
+
+
+### Whats a remote
+
+Remote repository is one hosted somewhere other than you local.

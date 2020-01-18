@@ -1,3 +1,4 @@
 git branch --no-merged master
 git diff
 git merger --no-commit --no-ff <branchname>
+git-practice$ git config --get user.email
