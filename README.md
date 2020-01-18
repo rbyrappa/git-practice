@@ -14,3 +14,8 @@ git -merge - merge changes from different branches
 
 merging means to bring changes from 2 branches together
 fastforward commit
+
+git branch --no-merged master
+git diff
+git merger --no-commit --no-ff <branchname>
+git-practice$ git config --get user.email
