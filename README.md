@@ -8,7 +8,7 @@
 - git commit: add commit changes from staging area to current branch
 eg: git commit -m "added examples" README.md
 - git config: set to get configuration
-- git log - shows history of project commits
+- git log - shows history of all project commits
 
 git -merge - merge changes from different branches
 
